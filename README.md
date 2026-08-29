@@ -1,7 +1,7 @@
 # Family-Office-OS-x
 Net worth dashboard for family offices managing $20M-$500M+ across multiple asset classes, currencies, and legal structures.
 
-**Live demo:** https://family-officeos-two.vercel.app/
+**Live demo:** https://family-office-os-two.vercel.app/
 
 ## What it does
 
